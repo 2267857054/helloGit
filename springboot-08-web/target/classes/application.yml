@@ -1,0 +1,11 @@
+#spring:
+#  mvc: 2
+#  hiddenmethod:
+#  filter:
+#  enabled: true #开启页面表单的Rest功能
+spring:
+  datasource:
+    username: root
+    password: z78991027
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mysql?useUnicode=true&characterEncoding=utf-8
